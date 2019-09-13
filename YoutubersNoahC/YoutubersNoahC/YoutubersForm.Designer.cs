@@ -65,45 +65,47 @@
             // mniPewdiepie
             // 
             this.mniPewdiepie.Name = "mniPewdiepie";
-            this.mniPewdiepie.Size = new System.Drawing.Size(180, 22);
+            this.mniPewdiepie.Size = new System.Drawing.Size(145, 22);
             this.mniPewdiepie.Text = "Pewdiepie";
             this.mniPewdiepie.Click += new System.EventHandler(this.MniPewdiepie_Click);
             // 
             // mniJacksepticeye
             // 
             this.mniJacksepticeye.Name = "mniJacksepticeye";
-            this.mniJacksepticeye.Size = new System.Drawing.Size(180, 22);
+            this.mniJacksepticeye.Size = new System.Drawing.Size(145, 22);
             this.mniJacksepticeye.Text = "Jacksepticeye";
             // 
             // mniMarkiplier
             // 
             this.mniMarkiplier.Name = "mniMarkiplier";
-            this.mniMarkiplier.Size = new System.Drawing.Size(180, 22);
+            this.mniMarkiplier.Size = new System.Drawing.Size(145, 22);
             this.mniMarkiplier.Text = "Markiplier";
             // 
             // mniMrBeast
             // 
             this.mniMrBeast.Name = "mniMrBeast";
-            this.mniMrBeast.Size = new System.Drawing.Size(180, 22);
+            this.mniMrBeast.Size = new System.Drawing.Size(145, 22);
             this.mniMrBeast.Text = "Mr Beast";
             // 
             // lblName
             // 
             this.lblName.AutoSize = true;
-            this.lblName.Location = new System.Drawing.Point(228, 57);
+            this.lblName.Font = new System.Drawing.Font("Swis721 BlkEx BT", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblName.Location = new System.Drawing.Point(99, 31);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(35, 13);
+            this.lblName.Size = new System.Drawing.Size(325, 57);
             this.lblName.TabIndex = 1;
-            this.lblName.Text = "label1";
+            this.lblName.Text = "Youtuber";
             // 
             // lblInfo
             // 
             this.lblInfo.AutoSize = true;
-            this.lblInfo.Location = new System.Drawing.Point(228, 166);
+            this.lblInfo.Font = new System.Drawing.Font("Impact", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblInfo.Location = new System.Drawing.Point(149, 107);
             this.lblInfo.Name = "lblInfo";
-            this.lblInfo.Size = new System.Drawing.Size(35, 13);
+            this.lblInfo.Size = new System.Drawing.Size(210, 45);
             this.lblInfo.TabIndex = 2;
-            this.lblInfo.Text = "label2";
+            this.lblInfo.Text = "Information";
             // 
             // groupBox1
             // 

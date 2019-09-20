@@ -36,9 +36,12 @@
             this.mniMrBeast = new System.Windows.Forms.ToolStripMenuItem();
             this.lblName = new System.Windows.Forms.Label();
             this.lblInfo = new System.Windows.Forms.Label();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.grbYoutuber = new System.Windows.Forms.GroupBox();
+            this.lblsubcount = new System.Windows.Forms.Label();
+            this.picYoutuber = new System.Windows.Forms.PictureBox();
             this.menuStrip1.SuspendLayout();
-            this.groupBox1.SuspendLayout();
+            this.grbYoutuber.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picYoutuber)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -74,64 +77,91 @@
             this.mniJacksepticeye.Name = "mniJacksepticeye";
             this.mniJacksepticeye.Size = new System.Drawing.Size(145, 22);
             this.mniJacksepticeye.Text = "Jacksepticeye";
+            this.mniJacksepticeye.Click += new System.EventHandler(this.MniJacksepticeye_Click);
             // 
             // mniMarkiplier
             // 
             this.mniMarkiplier.Name = "mniMarkiplier";
             this.mniMarkiplier.Size = new System.Drawing.Size(145, 22);
             this.mniMarkiplier.Text = "Markiplier";
+            this.mniMarkiplier.Click += new System.EventHandler(this.MniMarkiplier_Click);
             // 
             // mniMrBeast
             // 
             this.mniMrBeast.Name = "mniMrBeast";
             this.mniMrBeast.Size = new System.Drawing.Size(145, 22);
             this.mniMrBeast.Text = "Mr Beast";
+            this.mniMrBeast.Click += new System.EventHandler(this.MniMrBeast_Click);
             // 
             // lblName
             // 
             this.lblName.AutoSize = true;
-            this.lblName.Font = new System.Drawing.Font("Swis721 BlkEx BT", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblName.Location = new System.Drawing.Point(99, 31);
+            this.lblName.Font = new System.Drawing.Font("Revit_HEB_DWG", 33.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblName.Location = new System.Drawing.Point(-9, 29);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(325, 57);
+            this.lblName.Size = new System.Drawing.Size(213, 51);
             this.lblName.TabIndex = 1;
             this.lblName.Text = "Youtuber";
             // 
             // lblInfo
             // 
             this.lblInfo.AutoSize = true;
-            this.lblInfo.Font = new System.Drawing.Font("Impact", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblInfo.Location = new System.Drawing.Point(149, 107);
+            this.lblInfo.Font = new System.Drawing.Font("Arimo", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblInfo.Location = new System.Drawing.Point(-6, 131);
             this.lblInfo.Name = "lblInfo";
-            this.lblInfo.Size = new System.Drawing.Size(210, 45);
+            this.lblInfo.Size = new System.Drawing.Size(175, 36);
             this.lblInfo.TabIndex = 2;
             this.lblInfo.Text = "Information";
+            this.lblInfo.Click += new System.EventHandler(this.LblInfo_Click);
             // 
-            // groupBox1
+            // grbYoutuber
             // 
-            this.groupBox1.Controls.Add(this.lblName);
-            this.groupBox1.Controls.Add(this.lblInfo);
-            this.groupBox1.Location = new System.Drawing.Point(185, 117);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(493, 226);
-            this.groupBox1.TabIndex = 3;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "groupBox1";
+            this.grbYoutuber.Controls.Add(this.picYoutuber);
+            this.grbYoutuber.Controls.Add(this.lblsubcount);
+            this.grbYoutuber.Controls.Add(this.lblName);
+            this.grbYoutuber.Controls.Add(this.lblInfo);
+            this.grbYoutuber.Location = new System.Drawing.Point(0, 85);
+            this.grbYoutuber.Name = "grbYoutuber";
+            this.grbYoutuber.Size = new System.Drawing.Size(800, 318);
+            this.grbYoutuber.TabIndex = 3;
+            this.grbYoutuber.TabStop = false;
+            this.grbYoutuber.Text = "Youtube Info";
+            // 
+            // lblsubcount
+            // 
+            this.lblsubcount.AutoSize = true;
+            this.lblsubcount.Font = new System.Drawing.Font("Arimo", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblsubcount.Location = new System.Drawing.Point(-6, 225);
+            this.lblsubcount.Name = "lblsubcount";
+            this.lblsubcount.Size = new System.Drawing.Size(256, 36);
+            this.lblsubcount.TabIndex = 3;
+            this.lblsubcount.Text = "September, 2019";
+            // 
+            // picYoutuber
+            // 
+            this.picYoutuber.Image = global::YoutubersNoahC.Properties.Resources.youtube_logo;
+            this.picYoutuber.Location = new System.Drawing.Point(485, 29);
+            this.picYoutuber.Name = "picYoutuber";
+            this.picYoutuber.Size = new System.Drawing.Size(303, 283);
+            this.picYoutuber.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picYoutuber.TabIndex = 4;
+            this.picYoutuber.TabStop = false;
             // 
             // frmYoutubers
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.grbYoutuber);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "frmYoutubers";
             this.Text = "Youtubers by Noah.C";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
+            this.grbYoutuber.ResumeLayout(false);
+            this.grbYoutuber.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picYoutuber)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -147,7 +177,9 @@
         private System.Windows.Forms.ToolStripMenuItem mniMrBeast;
         private System.Windows.Forms.Label lblName;
         private System.Windows.Forms.Label lblInfo;
-        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.GroupBox grbYoutuber;
+        private System.Windows.Forms.Label lblsubcount;
+        private System.Windows.Forms.PictureBox picYoutuber;
     }
 }
 

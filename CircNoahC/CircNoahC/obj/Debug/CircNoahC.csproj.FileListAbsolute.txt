@@ -8,3 +8,12 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 1 (Problem Solvi
 N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 1 (Problem Solving)\CircNoahC\CircNoahC\obj\Debug\CircNoahC.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 1 (Problem Solving)\CircNoahC\CircNoahC\obj\Debug\CircNoahC.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 1 (Problem Solving)\CircNoahC\CircNoahC\obj\Debug\CircNoahC.pdb
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\CircNoahC\CircNoahC\bin\Debug\CircNoahC.exe.config
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\CircNoahC\CircNoahC\bin\Debug\CircNoahC.exe
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\CircNoahC\CircNoahC\bin\Debug\CircNoahC.pdb
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\CircNoahC\CircNoahC\obj\Debug\CircNoahC.csprojAssemblyReference.cache
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\CircNoahC\CircNoahC\obj\Debug\CircNoahC.frmCirc.resources
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\CircNoahC\CircNoahC\obj\Debug\CircNoahC.Properties.Resources.resources
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\CircNoahC\CircNoahC\obj\Debug\CircNoahC.csproj.GenerateResource.cache
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\CircNoahC\CircNoahC\obj\Debug\CircNoahC.exe
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\CircNoahC\CircNoahC\obj\Debug\CircNoahC.pdb

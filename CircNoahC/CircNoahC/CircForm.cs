@@ -66,6 +66,8 @@ namespace CircNoahC
         {
             //This will close the program if the exit button is clicked.
             this.Close();
+
+            //aaaaaayyyyyyy Github is working!
         }
     }
 }

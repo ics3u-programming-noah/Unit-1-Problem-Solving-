@@ -72,17 +72,20 @@
             // 
             // txtLength
             // 
+            this.txtLength.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtLength.Location = new System.Drawing.Point(365, 87);
             this.txtLength.Name = "txtLength";
-            this.txtLength.Size = new System.Drawing.Size(141, 20);
+            this.txtLength.Size = new System.Drawing.Size(141, 38);
             this.txtLength.TabIndex = 3;
             // 
             // txtWidth
             // 
+            this.txtWidth.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtWidth.Location = new System.Drawing.Point(365, 204);
             this.txtWidth.Name = "txtWidth";
-            this.txtWidth.Size = new System.Drawing.Size(141, 20);
+            this.txtWidth.Size = new System.Drawing.Size(141, 38);
             this.txtWidth.TabIndex = 4;
+            this.txtWidth.TextChanged += new System.EventHandler(this.txtWidth_TextChanged);
             // 
             // lblAreaAnswer
             // 
@@ -142,6 +145,7 @@
             this.Controls.Add(this.lblLength);
             this.Name = "frmAreaPer";
             this.Text = "Area and Perimeter of a Rectangle by Noah.C";
+            this.Load += new System.EventHandler(this.frmAreaPer_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

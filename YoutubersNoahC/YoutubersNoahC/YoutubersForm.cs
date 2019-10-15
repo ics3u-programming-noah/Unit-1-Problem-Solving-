@@ -64,5 +64,10 @@ namespace YoutubersNoahC
             this.lblsubcount.Text = "Sub Count: 24,262,531";
             this.picYoutuber.Image = Properties.Resources.mrbeast;
         }
+
+        private void frmYoutubers_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -37,8 +37,8 @@
             this.lblName = new System.Windows.Forms.Label();
             this.lblInfo = new System.Windows.Forms.Label();
             this.grbYoutuber = new System.Windows.Forms.GroupBox();
-            this.lblsubcount = new System.Windows.Forms.Label();
             this.picYoutuber = new System.Windows.Forms.PictureBox();
+            this.lblsubcount = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.grbYoutuber.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picYoutuber)).BeginInit();
@@ -96,20 +96,20 @@
             // lblName
             // 
             this.lblName.AutoSize = true;
-            this.lblName.Font = new System.Drawing.Font("Revit_HEB_DWG", 33.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblName.Font = new System.Drawing.Font("Microsoft Sans Serif", 33.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblName.Location = new System.Drawing.Point(-9, 29);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(213, 51);
+            this.lblName.Size = new System.Drawing.Size(214, 52);
             this.lblName.TabIndex = 1;
             this.lblName.Text = "Youtuber";
             // 
             // lblInfo
             // 
             this.lblInfo.AutoSize = true;
-            this.lblInfo.Font = new System.Drawing.Font("Arimo", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblInfo.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblInfo.Location = new System.Drawing.Point(-6, 131);
             this.lblInfo.Name = "lblInfo";
-            this.lblInfo.Size = new System.Drawing.Size(175, 36);
+            this.lblInfo.Size = new System.Drawing.Size(178, 37);
             this.lblInfo.TabIndex = 2;
             this.lblInfo.Text = "Information";
             this.lblInfo.Click += new System.EventHandler(this.LblInfo_Click);
@@ -127,16 +127,6 @@
             this.grbYoutuber.TabStop = false;
             this.grbYoutuber.Text = "Youtube Info";
             // 
-            // lblsubcount
-            // 
-            this.lblsubcount.AutoSize = true;
-            this.lblsubcount.Font = new System.Drawing.Font("Arimo", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblsubcount.Location = new System.Drawing.Point(-6, 225);
-            this.lblsubcount.Name = "lblsubcount";
-            this.lblsubcount.Size = new System.Drawing.Size(256, 36);
-            this.lblsubcount.TabIndex = 3;
-            this.lblsubcount.Text = "September, 2019";
-            // 
             // picYoutuber
             // 
             this.picYoutuber.Image = global::YoutubersNoahC.Properties.Resources.youtube_logo;
@@ -146,6 +136,16 @@
             this.picYoutuber.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picYoutuber.TabIndex = 4;
             this.picYoutuber.TabStop = false;
+            // 
+            // lblsubcount
+            // 
+            this.lblsubcount.AutoSize = true;
+            this.lblsubcount.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblsubcount.Location = new System.Drawing.Point(-6, 225);
+            this.lblsubcount.Name = "lblsubcount";
+            this.lblsubcount.Size = new System.Drawing.Size(260, 37);
+            this.lblsubcount.TabIndex = 3;
+            this.lblsubcount.Text = "September, 2019";
             // 
             // frmYoutubers
             // 
@@ -157,6 +157,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "frmYoutubers";
             this.Text = "Youtubers by Noah.C";
+            this.Load += new System.EventHandler(this.frmYoutubers_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.grbYoutuber.ResumeLayout(false);

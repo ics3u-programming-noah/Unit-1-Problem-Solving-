@@ -8,3 +8,12 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 1 (Problem Solvi
 N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 1 (Problem Solving)\YoutubersNoahC\YoutubersNoahC\obj\Debug\YoutubersNoahC.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 1 (Problem Solving)\YoutubersNoahC\YoutubersNoahC\obj\Debug\YoutubersNoahC.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 1 (Problem Solving)\YoutubersNoahC\YoutubersNoahC\obj\Debug\YoutubersNoahC.pdb
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\YoutubersNoahC\YoutubersNoahC\bin\Debug\YoutubersNoahC.exe.config
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\YoutubersNoahC\YoutubersNoahC\bin\Debug\YoutubersNoahC.exe
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\YoutubersNoahC\YoutubersNoahC\bin\Debug\YoutubersNoahC.pdb
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\YoutubersNoahC\YoutubersNoahC\obj\Debug\YoutubersNoahC.csprojAssemblyReference.cache
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\YoutubersNoahC\YoutubersNoahC\obj\Debug\YoutubersNoahC.Properties.Resources.resources
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\YoutubersNoahC\YoutubersNoahC\obj\Debug\YoutubersNoahC.frmYoutubers.resources
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\YoutubersNoahC\YoutubersNoahC\obj\Debug\YoutubersNoahC.csproj.GenerateResource.cache
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\YoutubersNoahC\YoutubersNoahC\obj\Debug\YoutubersNoahC.exe
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\YoutubersNoahC\YoutubersNoahC\obj\Debug\YoutubersNoahC.pdb

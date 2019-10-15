@@ -8,3 +8,12 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 1 (Problem Solvi
 N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 1 (Problem Solving)\AreaPerNoahC\AreaPerNoahC\obj\Debug\AreaPerNoahC.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 1 (Problem Solving)\AreaPerNoahC\AreaPerNoahC\obj\Debug\AreaPerNoahC.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 1 (Problem Solving)\AreaPerNoahC\AreaPerNoahC\obj\Debug\AreaPerNoahC.pdb
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\AreaPerNoahC\AreaPerNoahC\bin\Debug\AreaPerNoahC.exe.config
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\AreaPerNoahC\AreaPerNoahC\bin\Debug\AreaPerNoahC.exe
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\AreaPerNoahC\AreaPerNoahC\bin\Debug\AreaPerNoahC.pdb
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\AreaPerNoahC\AreaPerNoahC\obj\Debug\AreaPerNoahC.csprojAssemblyReference.cache
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\AreaPerNoahC\AreaPerNoahC\obj\Debug\AreaPerNoahC.frmAreaPer.resources
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\AreaPerNoahC\AreaPerNoahC\obj\Debug\AreaPerNoahC.Properties.Resources.resources
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\AreaPerNoahC\AreaPerNoahC\obj\Debug\AreaPerNoahC.csproj.GenerateResource.cache
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\AreaPerNoahC\AreaPerNoahC\obj\Debug\AreaPerNoahC.exe
+C:\Users\noahc\Documents\ICS3U Programming\Unit-1-Problem-Solving-\AreaPerNoahC\AreaPerNoahC\obj\Debug\AreaPerNoahC.pdb
